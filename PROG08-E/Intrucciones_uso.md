@@ -1,4 +1,4 @@
-#PROGRAMA DE TABLAS DE MULTIPLICAR
+# PROGRAMA DE TABLAS DE MULTIPLICAR
 
 Se te pedira que ingreses un numero
 
